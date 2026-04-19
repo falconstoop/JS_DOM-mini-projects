@@ -2,7 +2,7 @@
 
 This is from the **JavaScript course on Udemy** by **John Smilga**.
 
-This repository contains my practice projects from John Smilga's JavaScript course. Each project focuses on different DOM manipulation techniques and JavaScript concepts, helping me strengthen my front-end development skills.
+This repository contains my practice projects from John Smilga's JavaScript course. Each project focuses on different DOM manipulation techniques and JavaScript concepts, helping me strengthen my front-end development skills. Furthermore, I upgraded these projects independently with plethora of techniques and additional features, all for the sake of deeper learning and authentic understanding.
 
 ## Projects Included
 

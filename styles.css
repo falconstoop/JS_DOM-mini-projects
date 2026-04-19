@@ -21,6 +21,12 @@ body {
   text-align: center;
   padding-block: 2rem;
   color: #fff;
+
+  span {
+    display: block;
+    font-size: 1rem;
+    color: #aaa;
+  }
 }
 
 .list {
