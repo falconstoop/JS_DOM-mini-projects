@@ -13,24 +13,12 @@ This repository contains my practice projects from John Smilga's JavaScript cour
 | 3 | Reviews | Testimonial carousel | Arrays, objects, DOM traversal |
 | 4 | Navbar | Responsive navigation | Toggle classes, CSS transitions |
 | 5 | Sidebar | Toggle sidebar menu | Class manipulation, event handling |
-| 6 | Modal | Popup modal window | show/hide elements, event listeners |
-| 7 | Questions | FAQ accordion | DOM traversal, classList toggle |
-| 8 | Menu | Dynamic menu filtering | Array methods, map(), filter() |
-| 9 | Video | Custom video player | Video API, control buttons |
-| 10 | Scroll | Smooth scroll effects | Window methods, offset properties |
-| 11 | Tabs | Tabbed content | Dataset, class manipulation |
-| 12 | Countdown Timer | Coming soon page | Date object, setInterval() |
-| 13 | Lorem Ipsum | Text generator | Forms, loops, Math.random() |
-| 14 | Grocery Bud | Shopping list CRUD | Local storage, CRUD operations |
-| 15 | Slider | Image carousel | setInterval, array methods |
+
 
 ## Project Navigation
 
 I've created a main page that contains a simple list of links to each individual project. Just click on any link to open that project in your browser. It acts as a launchpad for all my JavaScript projects - a menu where each project is just one click away!
 
-## Demo
-
-[https://js-dom-mini-projects.netlify.app/](https://js-dom-mini-projects.netlify.app/)
 
 ## Purpose
 
@@ -50,3 +38,9 @@ This repository serves as:
 - Dynamic content rendering
 - Responsive design principles
 - ES6+ features (arrow functions, template literals, destructuring)
+
+---
+
+## Live Demo
+
+[https://js-dom-mini-projects.netlify.app/](https://js-dom-mini-projects.netlify.app/)
